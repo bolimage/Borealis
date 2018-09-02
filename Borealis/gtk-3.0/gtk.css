@@ -2853,7 +2853,7 @@ stackswitcher button.circular, stackswitcher button.nautilus-circular-button.ima
 
 *:drop(active):focus,
 *:drop(active) {
-  box-shadow: inset 0 0 0 1px #a3a3a5; }
+  box-shadow: inset 0 0 0 1px #a3a4a5; }
 
 decoration {
   transition: box-shadow 0.2s cubic-bezier(0, 0, 0.2, 1);
