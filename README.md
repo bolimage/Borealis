@@ -7,4 +7,4 @@ Partially based on Arc theme by horst3180.
 
 <b>SCREENSHOTS</b>
 
-<img src="https://cdn.scrot.moe/images/2018/05/09/screen02.jpg" alt="screen02.jpg" border="0" />
+<img src="https://cdn.scrot.moe/images/2018/10/04/screen225588.jpg" alt="screen225588.jpg" border="0" />
