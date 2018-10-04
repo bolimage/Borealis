@@ -4299,7 +4299,7 @@ filechooser placessidebar.sidebar scrollbar,
 @define-color insensitive_fg_color alpha(#2f343f, 0.5);
 @define-color insensitive_base_color #ffffff;
 @define-color theme_unfocused_fg_color #2f343f;
-@define-color theme_unfocused_text_color #2f343f;
+@define-color theme_unfocused_text_color #2f344f;
 @define-color theme_unfocused_bg_color #fafbfd;
 @define-color theme_unfocused_base_color #ffffff;
 @define-color borders #d9e1f0;
