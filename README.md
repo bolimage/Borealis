@@ -3,7 +3,7 @@ Easy On The Eyes Gnome 3.30 theme.
 
 Theme can be download here : https://www.opendesktop.org/p/1226593/
 
-Partially based on Arc theme by horst3180.
+Partially based on <a href="https://github.com/horst3180/arc-theme">Arc theme</a>.
 
 <b>SCREENSHOTS</b>
 
