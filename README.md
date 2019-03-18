@@ -1,5 +1,5 @@
 # Borealis
-Easy On The Eyes Gnome 3.30 theme.
+Easy On The Eyes Gnome theme.
 
 Theme can be download here : https://www.opendesktop.org/p/1226593/
 
