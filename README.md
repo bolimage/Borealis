@@ -1,7 +1,7 @@
 # Borealis
 Easy On The Eyes Gnome theme.
 
-Theme can be download here : https://www.opendesktop.org/p/1226593/
+Theme can be download here : https://www.pling.com/p/1226593/
 
 
 <b>SCREENSHOTS</b>
